@@ -4,7 +4,7 @@
         "password": "nirjala12345"
     },
     "invalidUser": {
-        "userName": "wronguser",
+        "userName": "wronr",
         "password": "wrongpassword"
     }
 }
